@@ -2,7 +2,7 @@
 
 > **ApplyMate** is an AI-powered personal job assistant that automates your entire application journey — from customizing resumes & cover letters to auto-applying for jobs and preparing you for interviews with interactive mock questions.
 
----
+--- 
 
 ## 📌 Project Summary
 
